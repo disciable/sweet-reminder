@@ -4,15 +4,15 @@ application:
   mail:
     host: 'smtp.qq.com' #也可以改成其他的，比如163邮箱
     port: '465' #也可以改成其他的，比如163邮箱
-    username: '' #username
-    password: '' #password
+    username: '1731853127' #username
+    password: 's18339173908' #password
     default-encoding: 'utf-8'
   weather:
-    appid: '' #在www.tianqiapi.com申请的appid
-    appsecret: '' #在www.tianqiapi.com申请的appsecret
+    appid: '86345529' #在www.tianqiapi.com申请的appid
+    appsecret: 'ZuL9sSwX' #在www.tianqiapi.com申请的appsecret
 girlfriend:
   mails:
-    - 'xx@qq.com' # 女票的邮箱，可以写多个
+    - '1731853127@qq.com' # 女票的邮箱，可以写多个
     - '' # 第二个
   city: '成都' #你女票所在的城市
   start_love_date: "2020-05-15" #开始在一起的日期，格式"2020-05-15"，请保持一致
